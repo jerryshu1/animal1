@@ -1,0 +1,16 @@
+{
+  "id": "3384507",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4767102",
+      "name": "rollback",
+      "font_class": "rollback",
+      "unicode": "e7fe",
+      "unicode_decimal": 59390
+    }
+  ]
+}
